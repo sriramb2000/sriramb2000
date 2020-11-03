@@ -1,4 +1,4 @@
-### sup 😎
+### sup 🤠
 
 🎧 **Now Playing** on Spotify
 
