@@ -1,16 +1,60 @@
 ### sup 🤠
 
-🎧 **Now Playing** on Spotify
+<center>
+    <table>
+    <thead>
+      <tr>
+        <th>🎧 now playing</th>
+        <th>📻 last saved</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://now-playing.sriramb2000.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></td>
+        <td><img src="https://now-playing.sriramb2000.vercel.app/last-saved" width="256" height="64" alt="Now Playing"></td>
+      </tr>
+    </tbody>
+    </table>
+</center>
 
-<a href="https://now-playing.sriramb2000.vercel.app/now-playing?open">
-    <img src="https://now-playing.sriramb2000.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+🎶 **songs** i'm into
 
-📻 **Recent** vibes
+<table>
+<thead>
+  <tr>
+    <th class="tg-73oq">right now</th>
+    <th>...a while back</th>
+    <th>always</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-track?timeRange=short_term" width="256" height="64" alt="Recent Track"></td>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-track?timeRange=medium_term" width="256" height="64" alt="Medium Track"></td>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-track?timeRange=long_term" width="256" height="64" alt="All-time Track"></td>
+  </tr>
+</tbody>
+</table>
 
-<a href="https://now-playing.sriramb2000.vercel.app/last-saved?open">
-    <img src="https://now-playing.sriramb2000.vercel.app/last-saved" width="256" height="64" alt="Now Playing">
-</a>
+👩🏽‍🎨 **artists** i'm into
+
+<table>
+<thead>
+  <tr>
+    <th>right now</th>
+    <th>...a while back</th>
+    <th>always</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-artist?timeRange=short_term" width="256" height="64" alt="Recent Artist"></td>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-artist?timeRange=medium_term" width="256" height="64" alt="Medium Artist"></td>
+    <td><img src="https://now-playing.sriramb2000.vercel.app/top-artist?timeRange=long_term" width="256" height="64" alt="All-time Artist"></td>
+  </tr>
+</tbody>
+</table>
+
 <!--
 **sriramb2000/sriramb2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
